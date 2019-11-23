@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Clase Master/Escena 2.unity
+- path: Assets/Clase Master/Escena 3.unity
   isLoaded: 1
   isActive: 1
