@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{5C590CB0-41DE-7DBD-3EEA-C191E80A01C6}</ProjectGuid>
+    <ProjectGuid>{9D1DD4B1-79B7-4EF6-67BF-282D7A2677E0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -51,6 +51,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Clase Master\Scrips\CambioColor.cs" />
+     <Compile Include="Assets\Clase Master\Scrips\MovimientoCamera.cs" />
+     <Compile Include="Assets\Clase Master\Scrips\MovimientoJugador.cs" />
      <Compile Include="Assets\Particles\Scripts\randomParticleRotation.cs" />
      <Compile Include="Assets\Scrips\cameraScript.cs" />
      <Compile Include="Assets\Scrips\controlerScript.cs" />
