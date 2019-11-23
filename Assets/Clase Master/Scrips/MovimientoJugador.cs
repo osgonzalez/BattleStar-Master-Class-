@@ -13,7 +13,7 @@ public class MovimientoJugador : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		this.rb = this.GetComponent<Rigidbody>();
-		//rb.freezeRotation = true;
+		rb.freezeRotation = true;
 		//rb.useGravity = false;
 
 	}
@@ -26,6 +26,7 @@ public class MovimientoJugador : MonoBehaviour {
 		float movVer = Input.GetAxis("Vertical");
 
 		//rb.AddForce((new Vector3(movHor, 0, movVer)) * speed * Time.deltaTime);
+		//this.rb.velocity =(new Vector3(movHor, 0, movVer)) * speed * Time.deltaTime;
 		this.rb.velocity =(new Vector3(movHor, 0, movVer)) * speed ;
 
 
