@@ -1,6 +1,6 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scrips\liveScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Clase Master\Scrips\Shoot.cs">
     <Files>
       <File FileName="Assets\Clase Master\Scrips\MovimientoCamera.cs" Line="1" Column="1" />
       <File FileName="Assets\Scrips\cameraScript.cs" Line="1" Column="1" />
@@ -9,13 +9,15 @@
       <File FileName="Assets\Clase Master\Scrips\CambioColor.cs" Line="1" Column="1" />
       <File FileName="Assets\Clase Master\Scrips\DisparoJugador.cs" Line="1" Column="1" />
       <File FileName="Assets\Scrips\ShootScript.cs" Line="1" Column="1" />
-      <File FileName="Assets\Clase Master\Scrips\Shoot.cs" Line="1" Column="1" />
+      <File FileName="Assets\Clase Master\Scrips\Shoot.cs" Line="20" Column="3" />
       <File FileName="Assets\Scrips\EnemySpawnScript.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scrips\spawnTriggerScript.cs" Line="7" Column="1" />
-      <File FileName="Assets\Clase Master\Scrips\SpawnZone.cs" Line="39" Column="36" />
+      <File FileName="Assets\Scrips\spawnTriggerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Clase Master\Scrips\SpawnZone.cs" Line="1" Column="1" />
       <File FileName="Assets\Scrips\EnemyExplosibeCapsuleScript.cs" Line="1" Column="1" />
-      <File FileName="Assets\Clase Master\Scrips\CapsulaExplosiva.cs" Line="25" Column="4" />
+      <File FileName="Assets\Clase Master\Scrips\CapsulaExplosiva.cs" Line="1" Column="1" />
       <File FileName="Assets\Scrips\liveScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Clase Master\Scrips\Vida.cs" Line="1" Column="1" />
+      <File FileName="Assets\Clase Master\Scrips\Principal.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

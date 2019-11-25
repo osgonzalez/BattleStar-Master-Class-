@@ -21,7 +21,7 @@ public class Shoot : MonoBehaviour {
 
 	private void OnCollisionEnter(Collision collision)
 	{
-		liveScript script = collision.gameObject.GetComponent<liveScript>();
+		Vida script = collision.gameObject.GetComponent<Vida>();
 		if (script != null)
 		{
 			script.doDamage(damage);

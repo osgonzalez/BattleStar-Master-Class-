@@ -56,8 +56,10 @@
      <Compile Include="Assets\Clase Master\Scrips\DisparoJugador.cs" />
      <Compile Include="Assets\Clase Master\Scrips\MovimientoCamera.cs" />
      <Compile Include="Assets\Clase Master\Scrips\MovimientoJugador.cs" />
+     <Compile Include="Assets\Clase Master\Scrips\Principal.cs" />
      <Compile Include="Assets\Clase Master\Scrips\Shoot.cs" />
      <Compile Include="Assets\Clase Master\Scrips\SpawnZone.cs" />
+     <Compile Include="Assets\Clase Master\Scrips\Vida.cs" />
      <Compile Include="Assets\Particles\Scripts\randomParticleRotation.cs" />
      <Compile Include="Assets\Scrips\cameraScript.cs" />
      <Compile Include="Assets\Scrips\controlerScript.cs" />
